@@ -27,9 +27,28 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * You'll actually create several simple rails project along with this book(simple twitter app)
 
 ## Javascript
+1. [Eloquent JavaScript](http://eloquentjavascript.net/)
+  * Like 'Rails Tutorial', you can learn by yourself with this
+  * More like book, not a dictionary
+
+1. [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * Useful as a dictionary
+  * Under 'Built-in objects', click one to see the lists of methods for that object
+
+  <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548945829/boot_coding/Screen_Shot_2019-01-31_at_23.39.56.png" alt="Markdown Viewer" height=400 style="margin: 10px auto;">
+  <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548945829/boot_coding/Screen_Shot_2019-01-31_at_23.40.52.png" alt="Markdown Viewer" height=400 style="margin: 10px auto;">
+
+
+## React.js
+1. [React Docs](https://reactjs.org/docs/hello-world.html)
+  * Documents by creaters, enough text-explanations, samples, codes
 
 
 ## HTML
+1. WHATEVER YOU FEEL IS BEAUTIFUL is your teaching material!!
+  * `command + option + i` (Mac) or `Ctrl + Shift + I` (Windows)
+  * See also [browser.md](./browser.md):grimacing:
+
 
 ## CSS
 1. [CSS Tricks | Snippets](https://css-tricks.com/snippets/)
