@@ -25,6 +25,7 @@ When you are inspecting a web page and want to focus some html element using mou
 
 
 **NEVER** click here to toggle inspecting mode :bomb::bomb:
+
 <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548950823/boot_coding/Screen_Shot_2019-02-01_at_1.06.45.png" alt="never click here" width=300 style="display: block; margin:30px auto; box-shadow: 0 0 10px rgb(180, 180, 180);">
 
 
