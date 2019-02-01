@@ -1,3 +1,5 @@
+[Back](./README.md)
+
 # What you can find here:
 Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 
@@ -8,6 +10,7 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * Some tricky things:
     * Check `Enumerable` class as well when you want to know methods applicable to `Array`, `Hash` class
 
+
 ## Ruby on Rails
 1. [RAILS GUIDES](https://guides.rubyonrails.org/)
   * Enough amount of explanations, samples for each topic
@@ -15,6 +18,7 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
     * ex) validation, association, form_for helper, layouts etc...
   * I use this whenever I got stack about rails
   * Use this as a dictionary
+
 1. [Rails tutorial](https://www.railstutorial.org/book)
   * If you are new, and don't know "what MVC model is", read this first
     * MVC model is explained in [chapter 2](https://www.railstutorial.org/book/toy_app#sec-mvc_in_action)
@@ -25,6 +29,7 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * Book goes through with theoretical backgrounds and explanations
   * Contains configuration part at the beginning
   * You'll actually create several simple rails project along with this book(simple twitter app)
+
 
 ## Javascript
 1. [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -49,12 +54,13 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * `command + option + i` (Mac) or `Ctrl + Shift + I` (Windows)
   * See also [browser.md](./browser.md):grimacing:
 
-
-## CSS
+## CSS/jQuery/animation(JavaScript)
 1. [CSS Tricks | Snippets](https://css-tricks.com/snippets/)
   * Useful and easy to understand front-end tips
   * e.g. CSS-grid, media query, flexbox
 
+1. [PixiJS](https://pixijs.io/examples/#/basics/basic.js)
+  * JavaScript code for animation of images
 
 ## Markdown
 1. [Github Guide](https://guides.github.com/features/mastering-markdown/)

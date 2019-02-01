@@ -1,3 +1,5 @@
+[Back](./README.md)
+
 # Customize your browser
 
 ## Chrome shortcuts
@@ -7,7 +9,7 @@ Try as much as possible to use shortcut to save your time!
 
 Mac|Windows|action
 ----|----|----
-&#8984;+&#8997;+I|Ctrl+Shift+I|inspect html
+&#8984;+&#8997;+I(or F12)|Ctrl+Shift+I|inspect html
 &#8984;+&#8997;+U|Ctrl+U|view html source code in another tab
 &#8984;+W|Ctrl+W|close current tab
 &#8984;+T|Ctrl+T|open new tab
@@ -18,7 +20,7 @@ Mac|Windows|action
 
 One more tip for front-end developers:
 
-When you are inspecting a web page and want to focus some html element using mouse, `&#8984;+&#8997;+C` (Mac) or `Ctrl + Shift + C` (Windows) will toggle *mouse mode* (you can save 1 click)
+When you are inspecting a web page and want to focus some html element using mouse, `⌘+⌥+C` (Mac) or `Ctrl + Shift + C` (Windows) will toggle *mouse mode* (it saves you 1 click)
 
 
 <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548950824/boot_coding/Screen_Shot_2019-02-01_at_1.04.23.png" alt="inspect with mouse" style="display: block; margin:30px auto; box-shadow: 0 0 10px rgb(180, 180, 180);">
