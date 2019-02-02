@@ -62,6 +62,10 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 1. [PixiJS](https://pixijs.io/examples/#/basics/basic.js)
   * JavaScript code for animation of images
 
+
+* Css basic guide resources are put together at [this article](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
+
+
 ## Markdown
 1. [Github Guide](https://guides.github.com/features/mastering-markdown/)
   * You can find almost all markdown syntax
