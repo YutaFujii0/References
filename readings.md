@@ -16,6 +16,7 @@ Nothing is changing more rapidly than this field, keep tracking what's hot.
   * Easy to read even for people who don't have enough IT knowledge
 * Don't forget Youtube is also a great tool!
 
+And I am tring to write my own blogs! I would appreciate it if you would [follow me](https://medium.com/@yutafujii_59175)! :grin:
 
 # Follow people you are interested
 
