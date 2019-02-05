@@ -1,4 +1,4 @@
-[Back](./README.md)
+[Back to home](./README.md)
 
 # Customize your browser
 
@@ -64,5 +64,4 @@ When you are inspecting a web page and want to focus some html element using mou
   <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548944421/boot_coding/Screen_Shot_2019-01-31_at_23.20.02.png" alt="Octotree | how it looks" style="display: block; margin:30px auto; box-shadow: 0 0 10px rgb(180, 180, 180);">
 
 
-
-
+[Back to top](./browser.md#Customize-your-browser)|[Back to home](./README.md)

@@ -1,4 +1,4 @@
-[Back](./README.md)
+[Back to home](./README.md)
 
 # What you can find here:
 Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
@@ -71,3 +71,6 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * You can find almost all markdown syntax
   * Note you can't use some of those if you want to follow markdown other than Github
   * Github supports emoji, find some at [cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) and happy emojing :grin:
+
+
+[Back to top](./browser.md#What-you-can-find-here)|[Back to home](./README.md)
