@@ -64,4 +64,26 @@ When you are inspecting a web page and want to focus some html element using mou
   <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548944421/boot_coding/Screen_Shot_2019-01-31_at_23.20.02.png" alt="Octotree | how it looks" style="display: block; margin:30px auto; box-shadow: 0 0 10px rgb(180, 180, 180);">
 
 
+1. [**Privacy Badger**](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+  <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1551654887/boot_coding/Screen_Shot_2019-03-04_at_7.59.37.png" alt="privacy badger" width=300 style="margin: 10px auto;">
+
+  * Privacy Badger learns and automatically block invisible tracking
+  * As a developer, why not pay a little attention to it? :grin:
+
+
+1. [**Clear Cache**](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en)
+  <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1551654887/boot_coding/Screen_Shot_2019-03-04_at_8.05.54.png" alt="clear cache" width=300 style="margin: 10px auto;">
+
+  * Clear your cache and browsing data with a single click of a button.
+  * You can clean up cookie, history, webSQL etc...
+
+
+1. [**EditThisCookie**](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg/related?hl=en)
+  <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1551654887/boot_coding/Screen_Shot_2019-03-04_at_8.10.01.png" alt="edit this cookie" width=300 style="margin: 10px auto;">
+
+  * Manage your cookie, including editing, deleting
+
+
+
+
 [Back to top](./browser.md#Customize-your-browser)|[Back to home](./README.md)

@@ -9,3 +9,4 @@ Take a look at this repository to enhance your technics.
 * [design.md](./design.md):Inspire design of your project
 * [readings.md](./readings.md):Some daily reading materials I recommend
 * [text_editor.md](#):packages and shortcuts of text editor(TODO)
+* [shell_command.md](#):shell commands that you should know(TODO)
