@@ -18,6 +18,14 @@ Nothing is changing more rapidly than this field, keep tracking what's hot.
 
 And I am tring to write my own blogs! I would appreciate it if you would [follow me](https://medium.com/@yutafujii_59175)! :grin:
 
+# Catch up recent inventions
+
+* [Google developers' blog](https://developers.googleblog.com/)
+* [Uber developers' blog](https://eng.uber.com/)
+* [Facebook developers' blog](https://developers.facebook.com/blog/)
+* [Airbnb developers' blog](https://medium.com/airbnb-engineering)
+* [Arxiv|Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
+
 # Follow people you are interested
 
 * [Brendan Gregg](http://www.brendangregg.com/)
@@ -26,6 +34,14 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 
 # Join meetups and communities
 
+* Meetup
+* Eventbrite
+* Peatix
+* Connpass(for Japanese)
+
+# JAPANESE resources
+* [Growth Hack Project](https://note.mu/kajiken0630/n/nad654142d9ef?fbclid=IwAR28mCNCBAQ5_G_i7ovsLE47LWUtNKGIb0RrjujOMdnTGHWT5zOlfkY9p2Q)
+* Look up slides from Wantedly, they're pretty great
 
 
 [Back to top](./readings.md#Catch-up-to-the-world)|[Back to home](./README.md)

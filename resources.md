@@ -31,6 +31,14 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * You'll actually create several simple rails project along with this book(simple twitter app)
 
 
+## Rspec for Rails
+1. [RSpec Rails](https://relishapp.com/rspec/rspec-rails/docs)
+  * Adequate examples, easy to read
+
+1. [Better Specs](http://www.betterspecs.org/)
+  * Good practices for rspec
+  * I recommend to read this first, because it's not so heavy amount
+
 ## Javascript
 1. [Eloquent JavaScript](http://eloquentjavascript.net/)
   * Like 'Rails Tutorial', you can learn by yourself with this
@@ -43,8 +51,13 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548945829/boot_coding/Screen_Shot_2019-01-31_at_23.39.56.png" alt="Markdown Viewer" height=400 style="margin: 10px auto;">
   <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1548945829/boot_coding/Screen_Shot_2019-01-31_at_23.40.52.png" alt="Markdown Viewer" height=400 style="margin: 10px auto;">
 
+## Python
+1. [Official Documentation](https://docs.python.org/3.7/library/stdtypes.html)
+  * Basic tutorials
+  * Also has a dictionary-like contents regarding built-in class/method
 
-## React.js
+
+## Javascript Frameworks: React.js
 1. [React Docs](https://reactjs.org/docs/hello-world.html)
   * Documents by creaters, enough text-explanations, samples, codes
 
@@ -71,6 +84,13 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * You can find almost all markdown syntax
   * Note you can't use some of those if you want to follow markdown other than Github
   * Github supports emoji, find some at [cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) and happy emojing :grin:
+
+## Computer Science
+1. [MIT course videos](http://courses.csail.mit.edu/)
+  * You can watch lectures from one of the greatest university
+  * Data structure, algorithms
+
+
 
 
 [Back to top](./browser.md#What-you-can-find-here)|[Back to home](./README.md)
