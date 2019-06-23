@@ -143,9 +143,9 @@
 * 各プロダクトバックログごとに存在する
 
 テンプレート
-As a <User role>,
-I want <describe the feature>
-Because <the value of the feature/ purpose>
+> As a  /User role/
+> I want /describe the feature/
+> Because /the value of the feature, purpose/
 
 ## プランニングポーカー
 * 開発期間を見積もるための手法
