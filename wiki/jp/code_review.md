@@ -43,8 +43,8 @@ development:
   encoding: utf8mb4
   database: ab_local     # <- こことか
   pool: 5
-  username: alarmbox
-  password: alarmbox
+  username: sample
+  password: sample
   socket: /var/lib/mysql/mysql.sock
   # host: 192.168.33.11
   host: 192.168.11.237     # <- こことか

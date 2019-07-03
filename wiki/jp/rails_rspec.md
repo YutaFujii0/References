@@ -13,10 +13,10 @@
 test:
   adapter: mysql2
   encoding: utf8mb4
-  database: alarmbox_test
+  database: sample_test
   pool: 5
-  username: alarmbox
-  password: alarmbox
+  username: sample
+  password: sample
   socket: /var/lib/mysql/mysql.sock
   host: 192.168.33.11
 ```

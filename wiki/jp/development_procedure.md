@@ -184,12 +184,12 @@ end
     if @filename.match(/\A\d+\z/)
       quotient = @filename.to_i / 1000
       folder   = (quotient == 0 ? 1 : quotient * 1000).to_s
-      @path_to_save = "/vagrant/alarmbox_internal/public/static/ab/alarms/" + folder + "/" + @filename + ".png"
+      @path_to_save = "/public/static/ab/alarms/" + folder + "/" + @filename + ".png"
     else
-      @path_to_save = "/vagrant/alarmbox_internal/public/static/ab/alarms/" + "tmp/"       + @filename + ".png"
+      @path_to_save = "/public/static/ab/alarms/" + "tmp/"       + @filename + ".png"
     end
 
-    @path_to_save_pdf = "/vagrant/alarmbox_internal/public/static/ab/alarms/" + "tmp/" + @filename + ".pdf" if @original_url.end_with?(".pdf")
+    @path_to_save_pdf = "/public/static/ab/alarms/" + "tmp/" + @filename + ".pdf" if @original_url.end_with?(".pdf")
   end
 ```
 
