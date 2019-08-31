@@ -84,7 +84,7 @@ When you are inspecting a web page and want to focus some html element using mou
   * Manage your cookie, including editing, deleting
 
 1. [**RESTlet client**](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
-  <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1567236218/boot_coding/Screen_Shot_2019-08-31_at_16.19.40.png" alt="rest client api">
+  <img src="https://res.cloudinary.com/dwoaw9y1s/image/upload/v1567236218/boot_coding/Screen_Shot_2019-08-31_at_16.19.40.png" alt="rest client api" width=300 style="margin: 10px auto;">
 
 
 [Back to top](./browser.md#Customize-your-browser)|[Back to home](./README.md)
