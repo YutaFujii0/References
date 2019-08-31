@@ -10,6 +10,14 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * Some tricky things:
     * Check `Enumerable` class as well when you want to know methods applicable to `Array`, `Hash` class
 
+1. [Good practices for ruby](https://github.com/rubocop-hq/ruby-style-guide)
+  * good practices for ruby, presented by rubocop
+  * They also created their own beautiful page [here](https://rubystyle.guide/)
+
+1. [Airbnb's style guide for ruby](https://github.com/airbnb/ruby)
+  * Airbnb is the most popular startup and service made of ruby
+  * They are inspired by the style guide of rubocop and created their own one
+
 
 ## Ruby on Rails
 1. [RAILS GUIDES](https://guides.rubyonrails.org/)
@@ -29,6 +37,7 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * Book goes through with theoretical backgrounds and explanations
   * Contains configuration part at the beginning
   * You'll actually create several simple rails project along with this book(simple twitter app)
+
 
 
 ## Rspec for Rails
@@ -61,7 +70,9 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 1. [React Docs](https://reactjs.org/docs/hello-world.html)
   * Documents by creaters, enough text-explanations, samples, codes
 
-
+1. [Airbnb's style guide for JavaScript](https://github.com/airbnb/javascript)
+  * Good read before you create an app
+  
 ## HTML
 1. WHATEVER YOU FEEL IS BEAUTIFUL is your teaching material!!
   * `command + option + i` (Mac) or `Ctrl + Shift + I` (Windows)
