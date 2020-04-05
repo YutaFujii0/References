@@ -89,6 +89,10 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 
 * Css basic guide resources are put together at [this article](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
 
+## RDBMS
+
+* [What Is The Order Of Execution Of An SQL Query?](https://www.designcise.com/web/tutorial/what-is-the-order-of-execution-of-an-sql-query)
+* [My Top 3 SQL Interview Questions(Medium)](https://towardsdatascience.com/my-top-3-sql-interview-questions-8a42597e8505)
 
 ## Markdown
 1. [Github Guide](https://guides.github.com/features/mastering-markdown/)
