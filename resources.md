@@ -106,6 +106,11 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * Data structure, algorithms
 
 
+## Data
+
+1. [Data Visualization](https://clauswilke.com/dataviz/index.html)
+2. [Stan](https://mc-stan.org/docs/2_25/reference-manual/index.html#overview)
+
 [OSI model](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
 [Back to top](./browser.md#What-you-can-find-here)|[Back to home](./README.md)
