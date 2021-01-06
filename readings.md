@@ -49,3 +49,7 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 
 
 [Back to top](./readings.md#Catch-up-to-the-world)|[Back to home](./README.md)
+
+# performance
+
+* https://paulcalvano.com/2018-07-25-brotli-compression-how-much-will-it-reduce-your-content/

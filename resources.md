@@ -89,6 +89,11 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 
 * Css basic guide resources are put together at [this article](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
 
+
+## Coding exercise
+
+* https://exercism.io/
+* https://www.codewars.com/
 ## RDBMS
 
 * [What Is The Order Of Execution Of An SQL Query?](https://www.designcise.com/web/tutorial/what-is-the-order-of-execution-of-an-sql-query)
