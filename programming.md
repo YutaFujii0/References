@@ -112,6 +112,12 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * [2020](https://missing.csail.mit.edu/2020/)
 
 
+## Typing speed
+
+1. [keybr](https://www.keybr.com/)
+2. [Monkeytype](https://monkeytype.com/)
+3. [typing.io](https://typing.io/lessons)
+
 ## Data
 
 1. [Data Visualization](https://clauswilke.com/dataviz/index.html)
