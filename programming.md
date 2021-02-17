@@ -117,6 +117,15 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 1. [keybr](https://www.keybr.com/)
 2. [Monkeytype](https://monkeytype.com/)
 3. [typing.io](https://typing.io/lessons)
+4. [10 fast finger](https://10fastfingers.com/typing-test/english)
+
+
+## Practices
+
+1. [HackerEarth](https://www.hackerearth.com/ja/challenges/)
+2. [HackerRank](https://www.hackerrank.com/dashboard)
+3. [CodeWars](https://www.codewars.com/)
+4. [AtCoder](https://atcoder.jp/home)
 
 ## Data
 
