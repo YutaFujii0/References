@@ -47,9 +47,8 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 * [Growth Hack Project](https://note.mu/kajiken0630/n/nad654142d9ef?fbclid=IwAR28mCNCBAQ5_G_i7ovsLE47LWUtNKGIb0RrjujOMdnTGHWT5zOlfkY9p2Q)
 * Look up slides from Wantedly, they're pretty great
 
-
-[Back to top](./readings.md#Catch-up-to-the-world)|[Back to home](./README.md)
-
 # performance
 
 * https://paulcalvano.com/2018-07-25-brotli-compression-how-much-will-it-reduce-your-content/
+
+[Back to top](./readings.md#Catch-up-to-the-world)|[Back to home](./README.md)
