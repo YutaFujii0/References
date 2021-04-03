@@ -10,3 +10,4 @@ Take a look at this repository to enhance your technics.
 * [readings.md](./readings.md):Some daily reading materials I recommend
 * [text_editor.md](#):packages and shortcuts of text editor(TODO)
 * [shell_command.md](#):shell commands that you should know(TODO)
+* [startup_news.md](./startup_news.md):daily news to catch up for startups
