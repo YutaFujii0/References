@@ -90,6 +90,15 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 * Css basic guide resources are put together at [this article](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
 
 
+## Coding exercise
+
+* https://exercism.io/
+* https://www.codewars.com/
+## RDBMS
+
+* [What Is The Order Of Execution Of An SQL Query?](https://www.designcise.com/web/tutorial/what-is-the-order-of-execution-of-an-sql-query)
+* [My Top 3 SQL Interview Questions(Medium)](https://towardsdatascience.com/my-top-3-sql-interview-questions-8a42597e8505)
+
 ## Markdown
 1. [Github Guide](https://guides.github.com/features/mastering-markdown/)
   * You can find almost all markdown syntax
@@ -100,8 +109,29 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 1. [MIT course videos](http://courses.csail.mit.edu/)
   * You can watch lectures from one of the greatest university
   * Data structure, algorithms
+  * [2020](https://missing.csail.mit.edu/2020/)
 
 
+## Typing speed
+
+1. [keybr](https://www.keybr.com/)
+2. [Monkeytype](https://monkeytype.com/)
+3. [typing.io](https://typing.io/lessons)
+4. [10 fast finger](https://10fastfingers.com/typing-test/english)
 
 
-[Back to top](./browser.md#What-you-can-find-here)|[Back to home](./README.md)
+## Practices
+
+1. [HackerEarth](https://www.hackerearth.com/ja/challenges/)
+2. [HackerRank](https://www.hackerrank.com/dashboard)
+3. [CodeWars](https://www.codewars.com/)
+4. [AtCoder](https://atcoder.jp/home)
+
+## Data
+
+1. [Data Visualization](https://clauswilke.com/dataviz/index.html)
+2. [Stan](https://mc-stan.org/docs/2_25/reference-manual/index.html#overview)
+
+[OSI model](https://www.youtube.com/watch?v=vv4y_uOneC0)
+
+[Back to top](./programming.md#What-you-can-find-here)|[Back to home](./README.md)

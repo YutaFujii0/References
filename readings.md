@@ -1,6 +1,6 @@
 [Back to home](./README.md)
 
-# Catch up to the world
+# Catch up to the world-wide technology trends
 Here are some readings that you might be interested in.
 Nothing is changing more rapidly than this field, keep tracking what's hot.
 
@@ -26,6 +26,10 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 * [Airbnb developers' blog](https://medium.com/airbnb-engineering)
 * [Arxiv|Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
 
+# Business leadership
+
+* [Harvard Business Reviews](https://hbr.org/)
+
 # Follow people you are interested
 
 * [Brendan Gregg](http://www.brendangregg.com/)
@@ -43,5 +47,8 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 * [Growth Hack Project](https://note.mu/kajiken0630/n/nad654142d9ef?fbclid=IwAR28mCNCBAQ5_G_i7ovsLE47LWUtNKGIb0RrjujOMdnTGHWT5zOlfkY9p2Q)
 * Look up slides from Wantedly, they're pretty great
 
+# performance
+
+* https://paulcalvano.com/2018-07-25-brotli-compression-how-much-will-it-reduce-your-content/
 
 [Back to top](./readings.md#Catch-up-to-the-world)|[Back to home](./README.md)
