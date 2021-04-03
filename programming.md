@@ -134,4 +134,8 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 
 [OSI model](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
+## Cloud Architecture
+
+1. [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
 [Back to top](./programming.md#What-you-can-find-here)|[Back to home](./README.md)
