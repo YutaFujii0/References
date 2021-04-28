@@ -1,7 +1,7 @@
 [Back to home](./README.md)
 
 # Improve your programming performance with shell commands
-
+- [explainshell - quick reference of shell command](https://explainshell.com/)
 
 ## Mac
 
