@@ -94,6 +94,7 @@
 ## Illustrations
 
 * [10 best free illustrations](https://themeisle.com/blog/free-illustrations/)
+* [Eagle](https://eagle.cool/)
 
 ## Blog
 
