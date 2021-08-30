@@ -5,6 +5,10 @@
 * [Tech Crunch](https://techcrunch.com/)
 * [Medium > startups](https://medium.com/topic/startups)
 
+# Good Readings
+
+* [First Round Capital blog](https://github.com/YutaFujii0/References.git)
+
 # periodically updated news vendors
 
 
