@@ -51,4 +51,10 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 
 * https://paulcalvano.com/2018-07-25-brotli-compression-how-much-will-it-reduce-your-content/
 
+
+# Blog posts
+
+* [What color is your function](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+* [SSR](https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984)
+
 [Back to top](./readings.md#Catch-up-to-the-world)|[Back to home](./README.md)
