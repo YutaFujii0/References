@@ -14,6 +14,8 @@ Nothing is changing more rapidly than this field, keep tracking what's hot.
 * [Lifewier](https://www.lifewire.com/)
   * Look up some basic keywords and you'll find some article
   * Easy to read even for people who don't have enough IT knowledge
+* [Quantamagazine](https://www.quantamagazine.org/)
+  * A variety of topics including mathematics, physics, etc...
 * Don't forget Youtube is also a great tool!
 
 And I am tring to write my own blogs! I would appreciate it if you would [follow me](https://medium.com/@yutafujii_59175)! :grin:
