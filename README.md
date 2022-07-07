@@ -14,3 +14,6 @@ Take a look at this repository to enhance your technics.
 * [text_editor](#): packages and shortcuts of text editor(TODO)
 * [shell_command](#): shell commands that you should know(TODO)
 * [startup_news.md](./startup_news.md):daily news to catch up for startups
+
+
+* [music for programming](https://musicforprogramming.net/latest/)
