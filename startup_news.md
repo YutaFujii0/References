@@ -3,6 +3,7 @@
 # Daily news
 
 * [Tech Crunch](https://techcrunch.com/)
+* [Crunch Base](https://news.crunchbase.com/)
 * [Medium > startups](https://medium.com/topic/startups)
 
 # Good Readings
