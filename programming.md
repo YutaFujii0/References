@@ -111,6 +111,8 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * Data structure, algorithms
   * [2020](https://missing.csail.mit.edu/2020/)
 
+1. [Memory Management](https://www.memorymanagement.org/)
+
 
 ## Typing speed
 
