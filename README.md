@@ -15,6 +15,7 @@ Take a look at this repository to enhance your technics.
 * [shell_command](#): shell commands that you should know(TODO)
 * [startup_news.md](./startup_news.md):daily news to catch up for startups
 * [thesis.md](./thesis.md):Famouns Thesis
+* [conferences.md](./conferences.md): Tech Conferences
 
 
 * [music for programming](https://musicforprogramming.net/latest/)
