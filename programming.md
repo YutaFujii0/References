@@ -112,6 +112,7 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
   * [2020](https://missing.csail.mit.edu/2020/)
 
 1. [Memory Management](https://www.memorymanagement.org/)
+1. [MIT the missing cs](https://missing.csail.mit.edu/)
 
 
 ## Typing speed
