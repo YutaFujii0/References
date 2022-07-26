@@ -27,6 +27,7 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 * [Facebook developers' blog](https://developers.facebook.com/blog/)
 * [Airbnb developers' blog](https://medium.com/airbnb-engineering)
 * [Arxiv|Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
+* [IETF ID](https://tools.ietf.org/dailydose/)
 
 # Business leadership
 
