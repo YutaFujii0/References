@@ -38,6 +38,8 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 * [Brendan Gregg](http://www.brendangregg.com/)
   * Performance engineer at Netflix
 
+* [DR. WERNER VOGELS](https://www.allthingsdistributed.com/)
+  * CTO, AMAZON.COM
 
 # Join meetups and communities
 
