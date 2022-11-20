@@ -53,7 +53,7 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 # performance
 
 * https://paulcalvano.com/2018-07-25-brotli-compression-how-much-will-it-reduce-your-content/
-
+* [DynamoDB implementation](https://www.usenix.org/system/files/atc22-elhemali.pdf)
 
 # Blog posts
 
