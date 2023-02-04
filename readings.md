@@ -41,6 +41,9 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 * [DR. WERNER VOGELS](https://www.allthingsdistributed.com/)
   * CTO, AMAZON.COM
 
+* [Nick Cameron](https://www.ncameron.org/blog/)
+  * Nick Cameron is a principal engineer at Microsoft where he works on Rust.
+
 # Join meetups and communities
 
 * Meetup
