@@ -3,6 +3,7 @@
 # AI tools
 
 Chat GPT: [Chat GPT](https://chat.openai.com/chat)
+[prompt engineering practice](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 
 Summarize text: [QuillBot](https://quillbot.com/summarize)
 
