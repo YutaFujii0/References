@@ -22,3 +22,5 @@ Create a video: [D-ID](https://studio.d-id.com/)
 Translate: [DeepL](https://www.deepl.com/en/translator)
 
 Write: [DeepL write](https://www.deepl.com/write)
+
+Talk: [BANTERAI](https://www.banterai.app/)
