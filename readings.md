@@ -65,5 +65,6 @@ And I am tring to write my own blogs! I would appreciate it if you would [follow
 * [What color is your function](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 * [SSR](https://gist.github.com/Widdershin/98fd4f0e416e8eb2906d11fd1da62984)
 * [Multi-tenancy microservice architecture|Uber](https://eng.uber.com/multitenancy-microservice-architecture/)
+* [Engineering practices from Google](https://google.github.io/eng-practices/)
 
 [Back to top](./readings.md#Catch-up-to-the-world)|[Back to home](./README.md)
