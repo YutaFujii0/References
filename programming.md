@@ -72,7 +72,10 @@ Some tips for **Ruby/Ruby on Rails/Javascript/HTML/CSS** .
 
 1. [Airbnb's style guide for JavaScript](https://github.com/airbnb/javascript)
   * Good read before you create an app
-  
+
+## TypeScript
+1. [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/type-system)
+
 ## HTML
 1. WHATEVER YOU FEEL IS BEAUTIFUL is your teaching material!!
   * `command + option + i` (Mac) or `Ctrl + Shift + I` (Windows)
